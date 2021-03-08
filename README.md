@@ -1,7 +1,6 @@
 # Flutter Netflix UI For Mobile
 
 This repository was created by cloning the Netflix Mobile UI with Flutter.
-#
 
 ### Screenshots
 <div style="justify-content: space-between;flex-direction: column; width=100%">
